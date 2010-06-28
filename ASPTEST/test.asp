@@ -2,16 +2,7 @@
 
 
 <%
- testset
- testt
-fsdafsdff
-testset
-test
-test
-test
-ss
-ff
-ddd
-
-
+ dim test
+ test = "ttttttt"
+ 
 %>
