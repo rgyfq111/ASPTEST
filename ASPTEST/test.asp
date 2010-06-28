@@ -9,6 +9,8 @@
  
  
  dim test
+ dim test2
+ dim test3
  
  
  test = "ttttttt"
